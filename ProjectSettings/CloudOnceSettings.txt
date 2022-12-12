@@ -1,0 +1,28 @@
+{
+	"AchievementIDs":[],
+	"LeaderboardIDs":[
+		{
+			"InternalID":"HighscoreRespawn",
+			"AppleID":"Telemetry_HSRespawns",
+			"GoogleID":"CgkI-qmC67kcEAIQAA"
+		},
+		{
+			"InternalID":"HighscoreNoRespawns",
+			"AppleID":"Telemetry_HsNoRespawns",
+			"GoogleID":"CgkIqmC67kcEAIQAQ"
+		},
+		{
+			"InternalID":"PlanetsReached",
+			"AppleID":"Telemetry_PlanetsReached",
+			"GoogleID":"CgkI-qmC67kcEAIQAg"
+		}
+	],
+	"CloudVariables":[],
+	"AppleSupported":true,
+	"GoogleSupported":true,
+	"GoogleAppID":"977597928698",
+	"GoogleSetupRun":true,
+	"DebugModeEnabled":false,
+	"Version":"2.7.5",
+	"SettingsLocation":"0"
+}

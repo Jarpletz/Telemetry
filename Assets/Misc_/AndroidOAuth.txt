@@ -1,0 +1,11 @@
+Type:
+Android
+
+Name:
+Telemetry
+
+Fingerprint:
+60:90:EA:59:B3:68:0D:37:29:AF:89:E3:2A:AD:1C:9D:94:F7:C0:74
+
+Package name:
+com.JarpletzStudios.Telemetry
